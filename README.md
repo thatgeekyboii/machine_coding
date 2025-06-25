@@ -1,5 +1,5 @@
 ### REACT MACHINE CODING ###
 
--> Pagination
--> OTP Validator
--> Accordion
+Pagination\
+OTP Validator\
+Accordion
