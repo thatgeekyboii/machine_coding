@@ -1,4 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
+import './OTPvalidator.css'
 
 const OTPgenerator = () => {
   const OTP_INPUT_DIGITS = 5;

@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import { items } from "../data";
+import { items } from "../../data";
 import { FaChevronDown, FaChevronUp } from "react-icons/fa";
-
+import './Accordion.css'
 const Accordian = () => {
   const [openIndex, setOpenIndex] = useState(null);
 
